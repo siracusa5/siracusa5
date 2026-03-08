@@ -27,7 +27,7 @@ Building things I find cool and useful.
 
 ## Projects
 
-🛠️ **[claude-setup](https://github.com/siracusa5/claude-setup)** — My Claude Code configuration.
+🛠️ **[harness-kit](https://github.com/siracusa5/harness-kit)** — My Claude Code configuration.
 
 ---
 
