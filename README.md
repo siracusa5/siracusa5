@@ -10,7 +10,7 @@ Building things I find cool and useful.
 
 ## Projects
 
-🛠️ **[harness-kit](https://github.com/siracusa5/harness-kit)** — take your ai harness with you.
+🛠️ **[harness-kit](https://github.com/siracusa5/harness-kit)** — A configuration framework for AI coding tools. Portable plugins, shareable config, works across harnesses.
 
 ---
 
