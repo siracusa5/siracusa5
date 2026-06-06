@@ -2,8 +2,6 @@
 
 # John Siracusa
 
-Building things I find cool and useful.
-
 </div>
 
 <br>
