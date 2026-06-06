@@ -4,20 +4,7 @@
 
 Building things I find cool and useful.
 
-</div>
-
----
-
-## Languages
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-## Tools
+<br>
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
@@ -26,19 +13,48 @@ Building things I find cool and useful.
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
+</div>
 
-## Projects
-
-**[harness-kit](https://github.com/harnessprotocol/harness-kit)** — A harness-agnostic framework for AI coding tools. Portable plugins, shareable config.
-
-**[Harness Protocol](https://github.com/harnessprotocol)** — Open specification for AI coding tool configuration and interoperability. harness-kit is the reference implementation.
-
-**[Hometown Media](https://hometownmediatn.com)** — Website for a Tennessee-based sports social media agency. Next.js 16 + Cloudflare Pages.
+<br>
 
 ---
 
-## Connect
+<table>
+<tr>
+<td valign="top" width="75%">
+<a href="https://github.com/harnessprotocol/harness-kit"><b>harness-kit</b></a><br>
+<sub>A harness-agnostic framework for AI coding tools — portable plugins, shareable config</sub>
+</td>
+<td align="right" valign="top">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/harnessprotocol"><b>Harness Protocol</b></a><br>
+<sub>Open specification for AI coding tool configuration and interoperability</sub>
+</td>
+<td align="right" valign="top">
+<img src="https://img.shields.io/badge/spec-6B7280?style=flat-square">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://hometownmediatn.com"><b>Hometown Media</b></a><br>
+<sub>Website for a Tennessee-based sports social media agency</sub>
+</td>
+<td align="right" valign="top">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siracusa5)
+&nbsp;&nbsp;
 [![johnsiracusa.dev](https://img.shields.io/badge/johnsiracusa.dev-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://johnsiracusa.dev)
+
+</div>
