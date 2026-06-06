@@ -4,15 +4,6 @@
 
 Building things I find cool and useful.
 
-<br>
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
 </div>
 
 <br>
@@ -21,35 +12,39 @@ Building things I find cool and useful.
 
 <table>
 <tr>
-<td valign="top" width="75%">
+<td valign="top" width="56">
+<img src="assets/harness-kit.svg" width="40" height="40">
+</td>
+<td valign="top">
 <a href="https://github.com/harnessprotocol/harness-kit"><b>harness-kit</b></a><br>
 <sub>A harness-agnostic framework for AI coding tools — portable plugins, shareable config</sub>
 </td>
-<td align="right" valign="top">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-</td>
 </tr>
+<tr><td colspan="2"><br></td></tr>
 <tr>
+<td valign="top">
+<img src="assets/harness-protocol.svg" width="40" height="40">
+</td>
 <td valign="top">
 <a href="https://github.com/harnessprotocol"><b>Harness Protocol</b></a><br>
 <sub>Open specification for AI coding tool configuration and interoperability</sub>
 </td>
-<td align="right" valign="top">
-<img src="https://img.shields.io/badge/spec-6B7280?style=flat-square">
-</td>
 </tr>
+<tr><td colspan="2"><br></td></tr>
 <tr>
+<td valign="top">
+<img src="assets/hometown-media.png" width="40" height="40">
+</td>
 <td valign="top">
 <a href="https://hometownmediatn.com"><b>Hometown Media</b></a><br>
 <sub>Website for a Tennessee-based sports social media agency</sub>
-</td>
-<td align="right" valign="top">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
 </td>
 </tr>
 </table>
 
 <br>
+
+---
 
 <div align="center">
 
