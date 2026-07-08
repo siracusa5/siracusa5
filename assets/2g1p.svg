@@ -1,11 +1,7 @@
-<svg viewBox="0 0 100 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- 2 Girls 1 Parlay - Mirrored 2s Logo Mark -->
-  <!-- Left 2 (Coral) -->
-  <path d="M10 20 Q25 8 38 22 Q44 32 22 50 L44 50"
-        stroke="#FF6B6B" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Right 2 (Teal - Mirrored) -->
-  <path d="M90 20 Q75 8 62 22 Q56 32 78 50 L56 50"
-        stroke="#4ECDC4" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Center connector dot -->
-  <circle cx="50" cy="35" r="5" fill="#FF6B6B"/>
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- The Ledger Bug — 2G1P bet-slip-stub mark, tuned for 32px legibility (no offset shadow at this scale). -->
+  <rect x="0.75" y="0.75" width="30.5" height="30.5" fill="#221D29" stroke="#FFF8F0" stroke-width="1.5"/>
+  <rect x="5" y="4" width="2" height="24" fill="#FF2E79"/>
+  <text x="9.3" y="15" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="12" letter-spacing="-0.6" fill="#FFF8F0">2G</text>
+  <text x="9.3" y="26.6" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="11.5" letter-spacing="-0.6" fill="#FF2E79">1P</text>
 </svg>

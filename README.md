@@ -64,7 +64,7 @@
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td valign="top">
-<img src="assets/2g1p.svg" width="40" height="32">
+<img src="assets/2g1p.svg" width="40" height="40">
 </td>
 <td valign="top">
 <a href="https://2girls1parlay.com"><b>2 Girls 1 Parlay</b></a><br>
