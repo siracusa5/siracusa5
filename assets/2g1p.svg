@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 2 Girls 1 Parlay - Mirrored 2s Logo Mark -->
+  <!-- Left 2 (Coral) -->
+  <path d="M10 20 Q25 8 38 22 Q44 32 22 50 L44 50"
+        stroke="#FF6B6B" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right 2 (Teal - Mirrored) -->
+  <path d="M90 20 Q75 8 62 22 Q56 32 78 50 L56 50"
+        stroke="#4ECDC4" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Center connector dot -->
+  <circle cx="50" cy="35" r="5" fill="#FF6B6B"/>
+</svg>
