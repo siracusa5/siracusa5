@@ -13,53 +13,53 @@
 <table>
 <thead>
 <tr>
-<th colspan="2" align="left">Project</th>
-<th align="left">Category</th>
-<th align="left">Available on</th>
+<th colspan="2" align="center">Project</th>
+<th align="center">Type</th>
+<th align="center">Access</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td valign="top" width="56"><img src="assets/johnsiracusa-dev.svg" width="40" height="40" alt=""></td>
-<td valign="top" width="390"><a href="https://johnsiracusa.dev"><b>johnsiracusa.dev</b></a><br><sub>An interactive portfolio that maps projects and capabilities on a canvas, built with native web technologies.</sub></td>
-<td valign="top"><sub><b>Portfolio website</b><br>Interactive web experience</sub></td>
-<td valign="top"><sub><b>Browser</b><br>Responsive web</sub></td>
+<td align="center" valign="middle" width="72"><img src="assets/johnsiracusa-dev.svg" width="56" alt="johnsiracusa.dev"></td>
+<td valign="middle" width="390"><div align="center"><a href="https://johnsiracusa.dev"><b>johnsiracusa.dev</b></a></div><br>A canvas-based portfolio for exploring my projects and capabilities.</td>
+<td align="center" valign="middle">🧭<br><b>Website</b></td>
+<td align="center" valign="middle">✓<br><b>Browser</b></td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/harness-kit.svg" width="40" height="40" alt=""></td>
-<td valign="top"><a href="https://github.com/harnessprotocol/harness-kit"><b>harness-kit</b></a><br><sub>A toolkit for keeping AI coding environments consistent across editors, machines, and teams.</sub><br><sub><a href="https://harnesskit.ai">Website</a> · <a href="https://harnesskit.ai/docs">Documentation</a></sub></td>
-<td valign="top"><sub><b>Developer tool</b><br>Desktop app and CLI</sub></td>
-<td valign="top"><sub><b>macOS app</b><br>CLI for local development</sub></td>
+<td align="center" valign="middle"><img src="assets/harness-kit.svg" width="56" alt="harness-kit"></td>
+<td valign="middle"><div align="center"><a href="https://github.com/harnessprotocol/harness-kit"><b>harness-kit</b></a></div><br>A portable toolkit for defining and sharing AI coding environments.<br><br><div align="center"><a href="https://harnesskit.ai">Website</a> · <a href="https://harnesskit.ai/docs">Documentation</a></div></td>
+<td align="center" valign="middle">🧰<br><b>Developer tool</b></td>
+<td align="center" valign="middle">✓ macOS app<br>✓ CLI</td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/harness-protocol.svg" width="40" height="40" alt=""></td>
-<td valign="top"><a href="https://github.com/harnessprotocol/harness-protocol"><b>Harness Protocol</b></a><br><sub>An open specification for portable AI coding configurations that can move between tools and teams.</sub><br><sub><a href="https://harnessprotocol.ai">Website</a> · <a href="https://harnessprotocol.ai/docs">Documentation</a></sub></td>
-<td valign="top"><sub><b>Open standard</b><br>Configuration specification</sub></td>
-<td valign="top"><sub><b>Browser</b><br>Compatible coding tools</sub></td>
+<td align="center" valign="middle"><img src="assets/harness-protocol.svg" width="56" alt="Harness Protocol"></td>
+<td valign="middle"><div align="center"><a href="https://github.com/harnessprotocol/harness-protocol"><b>Harness Protocol</b></a></div><br>An open specification for portable AI coding configurations.<br><br><div align="center"><a href="https://harnessprotocol.ai">Website</a> · <a href="https://harnessprotocol.ai/docs">Documentation</a></div></td>
+<td align="center" valign="middle">📐<br><b>Open standard</b></td>
+<td align="center" valign="middle">✓ Web<br>✓ Tool-compatible</td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/context-cake.svg" width="40" height="40" alt=""></td>
-<td valign="top"><a href="https://github.com/siracusa5/context-cake"><b>ContextCake</b></a><br><sub>A layered knowledge system that gives AI agents a resolved view of company, team, and personal context.</sub><br><sub><a href="https://contextcake.com">Website</a> · <a href="https://contextcake.com/docs">Documentation</a></sub></td>
-<td valign="top"><sub><b>Developer platform</b><br>Local engine and web console</sub></td>
-<td valign="top"><sub><b>Local Node.js</b><br>Browser console</sub></td>
+<td align="center" valign="middle"><img src="assets/context-cake.svg" width="56" alt="ContextCake"></td>
+<td valign="middle"><div align="center"><a href="https://github.com/siracusa5/context-cake"><b>ContextCake</b></a></div><br>A layered knowledge system that resolves context for AI agents.<br><br><div align="center"><a href="https://contextcake.com">Website</a> · <a href="https://contextcake.com/docs">Documentation</a></div></td>
+<td align="center" valign="middle">🧠<br><b>AI context</b></td>
+<td align="center" valign="middle">✓ Node.js<br>✓ Web console</td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/mindyourblanks.svg" width="40" height="40" alt=""></td>
-<td valign="top"><a href="https://mindyourblanks.com"><b>Mind Your Blanks</b></a><br><sub>A daily team game platform with asynchronous play, live meeting modes, and an admin console.</sub></td>
-<td valign="top"><sub><b>Web application</b><br>Team games</sub></td>
-<td valign="top"><sub><b>Browser</b><br>Desktop and mobile</sub></td>
+<td align="center" valign="middle"><img src="assets/mindyourblanks.svg" width="56" alt="Mind Your Blanks"></td>
+<td valign="middle"><div align="center"><a href="https://mindyourblanks.com"><b>Mind Your Blanks</b></a></div><br>Daily team games with asynchronous play, live modes, and admin tools.</td>
+<td align="center" valign="middle">🎮<br><b>Team games</b></td>
+<td align="center" valign="middle">✓<br><b>Browser</b></td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/2g1p.svg" width="40" height="40" alt=""></td>
-<td valign="top"><a href="https://2girls1parlay.com"><b>2 Girls 1 Parlay</b></a><br><sub>A sports editorial site with live scores, prediction tracking, and a public record for every pick.</sub></td>
-<td valign="top"><sub><b>Sports media site</b><br>Editorial and prediction tracking</sub></td>
-<td valign="top"><sub><b>Browser</b><br>Responsive web</sub></td>
+<td align="center" valign="middle"><img src="assets/2g1p.svg" width="56" alt="2 Girls 1 Parlay"></td>
+<td valign="middle"><div align="center"><a href="https://2girls1parlay.com"><b>2 Girls 1 Parlay</b></a></div><br>Sports coverage, live scores, and public prediction tracking.</td>
+<td align="center" valign="middle">📰<br><b>Sports media</b></td>
+<td align="center" valign="middle">✓<br><b>Browser</b></td>
 </tr>
 <tr>
-<td valign="top"><img src="assets/hometown-media.png" width="40" height="40" alt=""></td>
-<td valign="top"><a href="https://hometownmediatn.com"><b>Hometown Media</b></a><br><sub>A full web presence for a Tennessee sports media agency, designed to showcase work and support client inquiries.</sub></td>
-<td valign="top"><sub><b>Agency website</b><br>Marketing and portfolio</sub></td>
-<td valign="top"><sub><b>Browser</b><br>Responsive web</sub></td>
+<td align="center" valign="middle"><img src="assets/hometown-media.png" width="56" alt="Hometown Media"></td>
+<td valign="middle"><div align="center"><a href="https://hometownmediatn.com"><b>Hometown Media</b></a></div><br>A marketing site for a Tennessee sports media agency.</td>
+<td align="center" valign="middle">✦<br><b>Agency site</b></td>
+<td align="center" valign="middle">✓<br><b>Browser</b></td>
 </tr>
 </tbody>
 </table>
