@@ -8,7 +8,7 @@
 
 ---
 
-## Products, tools, and sites
+## My projects 
 
 <table>
 <thead>
