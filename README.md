@@ -33,7 +33,7 @@
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="assets/harness-protocol.svg" width="56" alt="Harness Protocol"></td>
-<td valign="middle"><a href="https://harnessprotocol.ai"><b>Harness Protocol</b></a><br>An open specification for portable AI coding configurations.<br><br> <a href="https://harnessprotocol.ai">harnessprotocol.ai</a><br><a href="https://github.com/harnessprotocol/harness-protocol">GitHub</a> · <a href="https://harnessprotocol.io/spec">Documentation</a></td>
+<td valign="middle"><a href="https://harnessprotocol.ai"><b>Harness Protocol</b></a><br>An open specification for portable AI coding configurations.<br><br> <a href="https://harnessprotocol.ai">harnessprotocol.ai</a><br><a href="https://github.com/harnessprotocol/harness-protocol">GitHub</a> · <a href="https://harnessprotocol.ai/docs">Documentation</a></td>
 <td align="center" valign="middle">📐<br><b>Open standard</b></td>
 <td align="center" valign="middle">✓ Web<br>✓ Tool-compatible</td>
 </tr>
