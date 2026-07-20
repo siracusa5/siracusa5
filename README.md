@@ -21,7 +21,7 @@
 <tbody>
 <tr>
 <td align="center" valign="middle" width="72"><img src="assets/johnsiracusa-dev.svg" width="56" alt="johnsiracusa.dev"></td>
-<td valign="middle" width="390"><a href="https://johnsiracusa.dev"><b>johnsiracusa.dev</b></a><br>A canvas-based portfolio for exploring my projects and capabilities.<br><br> <a href="https://johnsiracusa.dev">johnsiracusa.dev</a><br><a href="https://github.com/siracusa5/johnsiracusa.dev">GitHub (private)</a></td>
+<td valign="middle" width="390"><a href="https://johnsiracusa.dev"><b>johnsiracusa.dev</b></a><br>A canvas-based portfolio for exploring my projects and capabilities.<br><br> <a href="https://johnsiracusa.dev">johnsiracusa.dev</a></td>
 <td align="center" valign="middle">🧭<br><b>Website</b></td>
 <td align="center" valign="middle">✓<br><b>Browser</b></td>
 </tr>
@@ -45,19 +45,19 @@
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="assets/mindyourblanks.svg" width="56" alt="Mind Your Blanks"></td>
-<td valign="middle"><a href="https://mindyourblanks.com"><b>Mind Your Blanks</b></a><br>Daily team games with asynchronous play, live modes, and admin tools.<br><br> <a href="https://mindyourblanks.com">mindyourblanks.com</a><br><a href="https://github.com/siracusa5/mindyourblanks">GitHub (private)</a></td>
+<td valign="middle"><a href="https://mindyourblanks.com"><b>Mind Your Blanks</b></a><br>Daily team games with asynchronous play, live modes, and admin tools.<br><br> <a href="https://mindyourblanks.com">mindyourblanks.com</a></td>
 <td align="center" valign="middle">🎮<br><b>Team games</b></td>
 <td align="center" valign="middle">✓<br><b>Browser</b></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="assets/2g1p.svg" width="56" alt="2 Girls 1 Parlay"></td>
-<td valign="middle"><a href="https://2girls1parlay.com"><b>2 Girls 1 Parlay</b></a><br>Sports coverage, live scores, and public prediction tracking.<br><br> <a href="https://2girls1parlay.com">2girls1parlay.com</a><br><a href="https://github.com/siracusa5/2g1p">GitHub (private)</a></td>
+<td valign="middle"><a href="https://2girls1parlay.com"><b>2 Girls 1 Parlay</b></a><br>Sports coverage, live scores, and public prediction tracking.<br><br> <a href="https://2girls1parlay.com">2girls1parlay.com</a></td>
 <td align="center" valign="middle">📰<br><b>Sports media</b></td>
 <td align="center" valign="middle">✓<br><b>Browser</b></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="assets/hometown-media.png" width="56" alt="Hometown Media"></td>
-<td valign="middle"><a href="https://hometownmediatn.com"><b>Hometown Media</b></a><br>A marketing site for a Tennessee sports media agency.<br><br> <a href="https://hometownmediatn.com">hometownmediatn.com</a><br><a href="https://github.com/siracusa5/hometown-media">GitHub (private)</a></td>
+<td valign="middle"><a href="https://hometownmediatn.com"><b>Hometown Media</b></a><br>A marketing site for a Tennessee sports media agency.<br><br> <a href="https://hometownmediatn.com">hometownmediatn.com</a></td>
 <td align="center" valign="middle">✦<br><b>Agency site</b></td>
 <td align="center" valign="middle">✓<br><b>Browser</b></td>
 </tr>
