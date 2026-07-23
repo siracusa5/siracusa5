@@ -39,13 +39,13 @@
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="assets/context-cake.svg" width="56" alt="ContextCake"></td>
-<td valign="middle"><a href="https://contextcake.com"><b>ContextCake</b></a><br>A layered knowledge system that resolves context for AI agents.<br><br> <a href="https://contextcake.com">contextcake.com</a><br><a href="https://github.com/ContextCake/context-cake">GitHub</a> · <a href="https://contextcake.com/docs">Documentation</a></td>
+<td valign="middle"><a href="https://contextcake.com"><b>ContextCake</b></a><br>A layered knowledge system that resolves context for AI agents.<br><br> <a href="https://contextcake.com">contextcake.com</a><br><a href="https://github.com/ContextCake/context-cake">GitHub</a> · <a href="https://contextcake.com/docs">Documentation</a> · <a href="https://contextcake.com/install">Install</a></td>
 <td align="center" valign="middle">🧠<br><b>AI context</b></td>
-<td align="center" valign="middle">✓ Node.js<br>✓ Web console</td>
+<td align="center" valign="middle">✓ macOS app<br>✓ Node.js<br>✓ Web console</td>
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="assets/mindyourblanks.svg" width="56" alt="Mind Your Blanks"></td>
-<td valign="middle"><a href="https://mindyourblanks.com"><b>Mind Your Blanks</b></a><br>Daily team games with asynchronous play, live modes, and admin tools.<br><br> <a href="https://mindyourblanks.com">mindyourblanks.com</a></td>
+<td valign="middle"><a href="https://mindyourblanks.com"><b>Mind Your Blanks</b></a><br>Live and on-demand games for any group, with host controls and admin tools.<br><br> <a href="https://mindyourblanks.com">mindyourblanks.com</a></td>
 <td align="center" valign="middle">🎮<br><b>Team games</b></td>
 <td align="center" valign="middle">✓<br><b>Browser</b></td>
 </tr>
@@ -57,7 +57,7 @@
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="assets/hometown-media.png" width="56" alt="Hometown Media"></td>
-<td valign="middle"><a href="https://hometownmediatn.com"><b>Hometown Media</b></a><br>A marketing site for a Tennessee sports media agency.<br><br> <a href="https://hometownmediatn.com">hometownmediatn.com</a></td>
+<td valign="middle"><a href="https://hometownmediatn.com"><b>Hometown Media</b></a><br>A marketing site for a Tennessee sports, lifestyle, and content media agency.<br><br> <a href="https://hometownmediatn.com">hometownmediatn.com</a></td>
 <td align="center" valign="middle">✦<br><b>Agency site</b></td>
 <td align="center" valign="middle">✓<br><b>Browser</b></td>
 </tr>
