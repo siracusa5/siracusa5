@@ -45,13 +45,13 @@
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="assets/mindyourblanks.svg" width="56" alt="Mind Your Blanks"></td>
-<td valign="middle"><a href="https://mindyourblanks.com"><b>Mind Your Blanks</b></a><br>Live and on-demand games for any group, with host controls and admin tools.<br><br> <a href="https://mindyourblanks.com">mindyourblanks.com</a></td>
+<td valign="middle"><a href="https://mindyourblanks.com"><b>Mind Your Blanks</b></a><br>Live and on-demand games for any group, with host controls, admin tools, and a full production operations layer.<br><br> <a href="https://mindyourblanks.com">mindyourblanks.com</a></td>
 <td align="center" valign="middle">🎮<br><b>Team games</b></td>
 <td align="center" valign="middle">✓<br><b>Browser</b></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><img src="assets/2g1p.svg" width="56" alt="2 Girls 1 Parlay"></td>
-<td valign="middle"><a href="https://2girls1parlay.com"><b>2 Girls 1 Parlay</b></a><br>Sports coverage, live scores, and public prediction tracking.<br><br> <a href="https://2girls1parlay.com">2girls1parlay.com</a></td>
+<td valign="middle"><a href="https://2girls1parlay.com"><b>2 Girls 1 Parlay</b></a><br>Sports coverage, live scores, a daily picks hub, and public prediction tracking.<br><br> <a href="https://2girls1parlay.com">2girls1parlay.com</a></td>
 <td align="center" valign="middle">📰<br><b>Sports media</b></td>
 <td align="center" valign="middle">✓<br><b>Browser</b></td>
 </tr>
