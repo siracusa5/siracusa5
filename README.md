@@ -8,9 +8,14 @@
   <a href="https://linkedin.com/in/siracusa5">LinkedIn</a>
 </p>
 
-<p align="center"><sub>PROJECT NETWORK · SELECT A NODE</sub></p>
+<p align="center"><sub>Explore the project network</sub></p>
 
 ```mermaid
+---
+config:
+  flowchart:
+    curve: basis
+---
 flowchart LR
     kit@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/harness-kit.svg", label: "Harness Kit", pos: "b", w: 60, h: 60, constraint: "on" }
     blanks@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/mindyourblanks.svg", label: "Mind Your Blanks", pos: "b", w: 60, h: 60, constraint: "on" }
@@ -27,6 +32,12 @@ flowchart LR
     hub --- cake
     hub --- parlay
 
+    classDef project fill:transparent,stroke:transparent,color:#8c959f,stroke-width:0px
+    classDef center fill:transparent,stroke:transparent,color:#c9d1d9,stroke-width:0px
+    class kit,blanks,hometown,protocol,cake,parlay project
+    class hub center
+    linkStyle default stroke:#6e7681,stroke-width:1px,opacity:0.42
+
     click kit "https://harnesskit.ai" "Open Harness Kit" _blank
     click protocol "https://harnessprotocol.ai" "Open Harness Protocol" _blank
     click cake "https://contextcake.com" "Open ContextCake" _blank
@@ -36,7 +47,7 @@ flowchart LR
     click hometown "https://hometownmediatn.com" "Open Hometown Media" _blank
 ```
 
-## Projects
+## Project index
 
 <table width="100%">
   <tbody>
@@ -49,6 +60,11 @@ flowchart LR
         <a href="https://github.com/harnessprotocol/harness-kit">Source</a> · <a href="https://harnesskit.ai/docs">Docs</a>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table width="100%">
+  <tbody>
     <tr>
       <td width="100%" valign="top">
         <a href="https://harnessprotocol.ai"><img src="assets/harness-protocol.svg" width="30" alt=""> <strong>Harness Protocol</strong></a><br>
@@ -58,6 +74,11 @@ flowchart LR
         <a href="https://github.com/harnessprotocol/harness-protocol">Source</a> · <a href="https://harnessprotocol.ai/docs">Docs</a>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table width="100%">
+  <tbody>
     <tr>
       <td width="100%" valign="top">
         <a href="https://contextcake.com"><img src="assets/context-cake.svg" width="30" alt=""> <strong>ContextCake</strong></a><br>
@@ -67,6 +88,11 @@ flowchart LR
         <a href="https://github.com/ContextCake/context-cake">Source</a> · <a href="https://contextcake.com/docs">Docs</a> · <a href="https://contextcake.com/install">Install</a>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table width="100%">
+  <tbody>
     <tr>
       <td width="100%" valign="top">
         <a href="https://mindyourblanks.com"><img src="assets/mindyourblanks.svg" width="30" alt=""> <strong>Mind Your Blanks</strong></a><br>
@@ -75,6 +101,11 @@ flowchart LR
         <a href="https://mindyourblanks.com">Open ↗</a>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table width="100%">
+  <tbody>
     <tr>
       <td width="100%" valign="top">
         <a href="https://2girls1parlay.com"><img src="assets/2g1p.svg" width="30" alt=""> <strong>2 Girls 1 Parlay</strong></a><br>
@@ -83,6 +114,11 @@ flowchart LR
         <a href="https://2girls1parlay.com">Open ↗</a>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table width="100%">
+  <tbody>
     <tr>
       <td width="100%" valign="top">
         <a href="https://johnsiracusa.dev"><img src="assets/johnsiracusa-dev.svg" width="30" alt=""> <strong>johnsiracusa.dev</strong></a><br>
@@ -91,6 +127,11 @@ flowchart LR
         <a href="https://johnsiracusa.dev">Open ↗</a>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table width="100%">
+  <tbody>
     <tr>
       <td width="100%" valign="top">
         <a href="https://hometownmediatn.com"><img src="assets/hometown-media.png" width="30" alt=""> <strong>Hometown Media</strong></a><br>
