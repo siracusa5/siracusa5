@@ -12,23 +12,13 @@
 
 ```mermaid
 flowchart LR
-    subgraph left[" "]
-        direction TB
-        kit@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/harness-kit.svg", label: "Harness Kit", pos: "b", w: 60, h: 60, constraint: "on" }
-        blanks@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/mindyourblanks.svg", label: "Mind Your Blanks", pos: "b", w: 60, h: 60, constraint: "on" }
-        hometown@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/hometown-media.png", label: "Hometown Media", pos: "b", w: 60, h: 60, constraint: "on" }
-        kit ~~~ blanks ~~~ hometown
-    end
-
+    kit@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/harness-kit.svg", label: "Harness Kit", pos: "b", w: 60, h: 60, constraint: "on" }
+    blanks@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/mindyourblanks.svg", label: "Mind Your Blanks", pos: "b", w: 60, h: 60, constraint: "on" }
+    hometown@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/hometown-media.png", label: "Hometown Media", pos: "b", w: 60, h: 60, constraint: "on" }
     hub@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/johnsiracusa-dev.svg", label: "johnsiracusa.dev", pos: "b", w: 76, h: 76, constraint: "on" }
-
-    subgraph right[" "]
-        direction TB
-        protocol@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/harness-protocol.svg", label: "Harness Protocol", pos: "b", w: 60, h: 60, constraint: "on" }
-        cake@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/context-cake.svg", label: "ContextCake", pos: "b", w: 60, h: 60, constraint: "on" }
-        parlay@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/2g1p.svg", label: "2 Girls 1 Parlay", pos: "b", w: 60, h: 60, constraint: "on" }
-        protocol ~~~ cake ~~~ parlay
-    end
+    protocol@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/harness-protocol.svg", label: "Harness Protocol", pos: "b", w: 60, h: 60, constraint: "on" }
+    cake@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/context-cake.svg", label: "ContextCake", pos: "b", w: 60, h: 60, constraint: "on" }
+    parlay@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/2g1p.svg", label: "2 Girls 1 Parlay", pos: "b", w: 60, h: 60, constraint: "on" }
 
     kit --- hub
     blanks --- hub
@@ -36,9 +26,6 @@ flowchart LR
     hub --- protocol
     hub --- cake
     hub --- parlay
-
-    style left fill:transparent,stroke:transparent
-    style right fill:transparent,stroke:transparent
 
     click kit "https://harnesskit.ai" "Open Harness Kit" _blank
     click protocol "https://harnessprotocol.ai" "Open Harness Protocol" _blank
