@@ -16,12 +16,11 @@ flowchart LR
         direction TB
         kit@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/harness-kit.svg", label: "Harness Kit", pos: "b", w: 60, h: 60, constraint: "on" }
         blanks@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/mindyourblanks.svg", label: "Mind Your Blanks", pos: "b", w: 60, h: 60, constraint: "on" }
-        portfolio@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/johnsiracusa-dev.svg", label: "johnsiracusa.dev", pos: "b", w: 60, h: 60, constraint: "on" }
         hometown@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/hometown-media.png", label: "Hometown Media", pos: "b", w: 60, h: 60, constraint: "on" }
-        kit ~~~ blanks ~~~ portfolio ~~~ hometown
+        kit ~~~ blanks ~~~ hometown
     end
 
-    hub@{ img: "https://avatars.githubusercontent.com/u/9221725?v=4", label: "John Siracusa", pos: "b", w: 76, h: 76, constraint: "on" }
+    hub@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/johnsiracusa-dev.svg", label: "johnsiracusa.dev", pos: "b", w: 76, h: 76, constraint: "on" }
 
     subgraph right[" "]
         direction TB
@@ -33,7 +32,6 @@ flowchart LR
 
     kit --- hub
     blanks --- hub
-    portfolio --- hub
     hometown --- hub
     hub --- protocol
     hub --- cake
@@ -47,7 +45,7 @@ flowchart LR
     click cake "https://contextcake.com" "Open ContextCake" _blank
     click blanks "https://mindyourblanks.com" "Open Mind Your Blanks" _blank
     click parlay "https://2girls1parlay.com" "Open 2 Girls 1 Parlay" _blank
-    click portfolio "https://johnsiracusa.dev" "Open johnsiracusa.dev" _blank
+    click hub "https://johnsiracusa.dev" "Open johnsiracusa.dev" _blank
     click hometown "https://hometownmediatn.com" "Open Hometown Media" _blank
 ```
 
