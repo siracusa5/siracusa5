@@ -10,15 +10,46 @@
 
 <p align="center"><sub>PROJECT NETWORK · SELECT A NODE</sub></p>
 
-<p align="center">
-  <a href="https://harnesskit.ai"><img src="assets/harness-kit.svg" width="62" alt="Harness Kit"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://harnessprotocol.ai"><img src="assets/harness-protocol.svg" width="62" alt="Harness Protocol"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://contextcake.com"><img src="assets/context-cake.svg" width="62" alt="ContextCake"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://mindyourblanks.com"><img src="assets/mindyourblanks.svg" width="62" alt="Mind Your Blanks"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://2girls1parlay.com"><img src="assets/2g1p.svg" width="62" alt="2 Girls 1 Parlay"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://johnsiracusa.dev"><img src="assets/johnsiracusa-dev.svg" width="62" alt="johnsiracusa.dev"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://hometownmediatn.com"><img src="assets/hometown-media.png" width="62" alt="Hometown Media"></a>
-</p>
+```mermaid
+flowchart LR
+    subgraph left[" "]
+        direction TB
+        kit@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/harness-kit.svg", label: "Harness Kit", pos: "b", w: 60, h: 60, constraint: "on" }
+        blanks@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/mindyourblanks.svg", label: "Mind Your Blanks", pos: "b", w: 60, h: 60, constraint: "on" }
+        portfolio@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/johnsiracusa-dev.svg", label: "johnsiracusa.dev", pos: "b", w: 60, h: 60, constraint: "on" }
+        hometown@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/hometown-media.png", label: "Hometown Media", pos: "b", w: 60, h: 60, constraint: "on" }
+        kit ~~~ blanks ~~~ portfolio ~~~ hometown
+    end
+
+    hub@{ img: "https://avatars.githubusercontent.com/u/9221725?v=4", label: "John Siracusa", pos: "b", w: 76, h: 76, constraint: "on" }
+
+    subgraph right[" "]
+        direction TB
+        protocol@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/harness-protocol.svg", label: "Harness Protocol", pos: "b", w: 60, h: 60, constraint: "on" }
+        cake@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/context-cake.svg", label: "ContextCake", pos: "b", w: 60, h: 60, constraint: "on" }
+        parlay@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/2g1p.svg", label: "2 Girls 1 Parlay", pos: "b", w: 60, h: 60, constraint: "on" }
+        protocol ~~~ cake ~~~ parlay
+    end
+
+    kit --- hub
+    blanks --- hub
+    portfolio --- hub
+    hometown --- hub
+    hub --- protocol
+    hub --- cake
+    hub --- parlay
+
+    style left fill:transparent,stroke:transparent
+    style right fill:transparent,stroke:transparent
+
+    click kit "https://harnesskit.ai" "Open Harness Kit" _blank
+    click protocol "https://harnessprotocol.ai" "Open Harness Protocol" _blank
+    click cake "https://contextcake.com" "Open ContextCake" _blank
+    click blanks "https://mindyourblanks.com" "Open Mind Your Blanks" _blank
+    click parlay "https://2girls1parlay.com" "Open 2 Girls 1 Parlay" _blank
+    click portfolio "https://johnsiracusa.dev" "Open johnsiracusa.dev" _blank
+    click hometown "https://hometownmediatn.com" "Open Hometown Media" _blank
+```
 
 ## Projects
 
