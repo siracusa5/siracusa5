@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">Project atlas</title>
+  <desc id="desc">Seven projects arranged on three connected tracks: portable AI, live products, and web systems.</desc>
+  <style>
+    .frame { fill: #f6f8fa; stroke: #d0d7de; }
+    .ink { fill: #1f2328; }
+    .muted { fill: #59636e; }
+    .hairline { stroke: #afb8c1; }
+    .label { font: 700 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: 1.5px; }
+    .name { font: 700 16px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .detail { font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .meta { font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: .35px; }
+    @media (prefers-color-scheme: dark) {
+      .frame { fill: #0d1117; stroke: #30363d; }
+      .ink { fill: #f0f6fc; }
+      .muted { fill: #8b949e; }
+      .hairline { stroke: #484f58; }
+    }
+  </style>
+
+  <rect class="frame" x="1" y="1" width="958" height="418" rx="14"/>
+  <text class="label ink" x="28" y="36">PROJECT ATLAS</text>
+  <text class="meta muted" x="932" y="36" text-anchor="end">7 PROJECTS · 3 TRACKS</text>
+
+  <path d="M76 210 C126 210 126 100 190 100 H890" fill="none" stroke="#7a8bff" stroke-width="2"/>
+  <path d="M76 210 H190 H890" fill="none" stroke="#d29922" stroke-width="2"/>
+  <path d="M76 210 C126 210 126 320 190 320 H890" fill="none" stroke="#2da44e" stroke-width="2"/>
+
+  <circle cx="76" cy="210" r="28" fill="#11151f" stroke="#7a8bff" stroke-width="2"/>
+  <path d="M65 202 L76 210 L88 199 M76 210 L62 221 M76 210 L90 222" fill="none" stroke="#f0f6fc" stroke-opacity=".5" stroke-width="1.5"/>
+  <circle cx="65" cy="202" r="3" fill="#60a5fa"/>
+  <circle cx="88" cy="199" r="3" fill="#34d399"/>
+  <circle cx="62" cy="221" r="3" fill="#fbbf24"/>
+  <circle cx="90" cy="222" r="3" fill="#fb923c"/>
+  <circle cx="76" cy="210" r="4" fill="#8b5cf6"/>
+
+  <text class="label ink" x="116" y="94">PORTABLE AI</text>
+  <text class="label ink" x="116" y="204">LIVE PRODUCTS</text>
+  <text class="label ink" x="116" y="314">WEB SYSTEMS</text>
+
+  <!-- Harness Protocol -->
+  <g transform="translate(294 84)">
+    <circle cx="16" cy="16" r="16" fill="#131110"/>
+    <circle cx="16" cy="16" r="10" fill="none" stroke="#60a5fa" stroke-width="2"/>
+    <path d="M16 9 L10 20 H22 Z" fill="none" stroke="#60a5fa" stroke-width="1" opacity=".65"/>
+    <circle cx="16" cy="9" r="2" fill="#e8e0d6"/><circle cx="10" cy="20" r="2" fill="#e8e0d6"/><circle cx="22" cy="20" r="2" fill="#e8e0d6"/>
+  </g>
+  <text class="name ink" x="310" y="139" text-anchor="middle">Harness Protocol</text>
+  <text class="detail muted" x="310" y="157" text-anchor="middle">portable specification</text>
+
+  <!-- Harness Kit -->
+  <g transform="translate(514 84)">
+    <rect width="32" height="32" rx="7" fill="#11151f"/>
+    <path d="M8 9.5 C14 11 16.5 13.5 19 15 M8 22.5 C14 21 16.5 18.5 19 17" fill="none" stroke="#7a8bff" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="8" cy="9.5" r="2" fill="#7a8bff"/><circle cx="8" cy="22.5" r="2" fill="#7a8bff"/><circle cx="22" cy="16" r="3.4" fill="#7a8bff"/>
+  </g>
+  <text class="name ink" x="530" y="139" text-anchor="middle">Harness Kit</text>
+  <text class="detail muted" x="530" y="157" text-anchor="middle">portable environments</text>
+
+  <!-- ContextCake -->
+  <g transform="translate(734 84)">
+    <rect width="32" height="32" rx="7" fill="#1a1c19"/>
+    <rect x="9" y="8" width="14" height="5" rx="2" fill="#d8a84e"/>
+    <rect x="7" y="14" width="18" height="5" rx="2" fill="#82b99c"/>
+    <rect x="5" y="20" width="22" height="5" rx="2" fill="#83abc0"/>
+  </g>
+  <text class="name ink" x="750" y="139" text-anchor="middle">ContextCake</text>
+  <text class="detail muted" x="750" y="157" text-anchor="middle">layered context</text>
+
+  <!-- Mind Your Blanks -->
+  <g transform="translate(394 194)">
+    <rect width="32" height="32" rx="8" fill="#ffd23f" stroke="#1a1a2e" stroke-width="2"/>
+    <rect x="8" y="10" width="14" height="3" rx="1" fill="#1a1a2e" opacity=".4"/>
+    <rect x="8" y="18" width="18" height="5" rx="1.5" fill="#1a1a2e"/>
+  </g>
+  <text class="name ink" x="410" y="249" text-anchor="middle">Mind Your Blanks</text>
+  <text class="detail muted" x="410" y="267" text-anchor="middle">live team games</text>
+
+  <!-- 2G1P -->
+  <g transform="translate(649 194)">
+    <rect x="1" y="1" width="30" height="30" fill="#221d29" stroke="#fff8f0" stroke-width="1.5"/>
+    <rect x="5" y="5" width="2" height="22" fill="#ff2e79"/>
+    <text x="10" y="15" font-family="Arial, sans-serif" font-weight="900" font-size="10" fill="#fff8f0">2G</text>
+    <text x="10" y="25" font-family="Arial, sans-serif" font-weight="900" font-size="9.5" fill="#ff2e79">1P</text>
+  </g>
+  <text class="name ink" x="665" y="249" text-anchor="middle">2 Girls 1 Parlay</text>
+  <text class="detail muted" x="665" y="267" text-anchor="middle">sports intelligence</text>
+
+  <!-- johnsiracusa.dev -->
+  <g transform="translate(394 304)">
+    <rect width="32" height="32" rx="6" fill="#08080a"/>
+    <path d="M16 16 L6 8 M16 16 L26 8 M16 16 L5 24 M16 16 L27 24" stroke="#fff" stroke-opacity=".3" stroke-width="1.2"/>
+    <circle cx="6" cy="8" r="3" fill="#60a5fa"/><circle cx="26" cy="8" r="2.7" fill="#34d399"/><circle cx="5" cy="24" r="2.7" fill="#fbbf24"/><circle cx="27" cy="24" r="2.5" fill="#fb923c"/><circle cx="16" cy="16" r="5" fill="#8b5cf6"/>
+  </g>
+  <text class="name ink" x="410" y="359" text-anchor="middle">johnsiracusa.dev</text>
+  <text class="detail muted" x="410" y="377" text-anchor="middle">spatial portfolio</text>
+
+  <!-- Hometown Media -->
+  <g transform="translate(649 304)">
+    <circle cx="16" cy="16" r="15" fill="#14264a" stroke="#c92a32" stroke-width="2"/>
+    <path d="M16 7 L18.2 12.2 L24 12.7 L19.5 16.4 L21 22 L16 19 L11 22 L12.5 16.4 L8 12.7 L13.8 12.2 Z" fill="#fff"/>
+  </g>
+  <text class="name ink" x="665" y="359" text-anchor="middle">Hometown Media</text>
+  <text class="detail muted" x="665" y="377" text-anchor="middle">production website</text>
+</svg>

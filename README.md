@@ -1,60 +1,57 @@
-**Software engineer building AI developer infrastructure, interactive products, and production web systems.**
+<p align="center">
+  <strong>Software engineer building portable AI systems and production web products.</strong><br>
+  Coding environments, context infrastructure, interactive software, and the systems behind them.
+</p>
 
-Currently focused on portable coding environments and context systems.
+<p align="center">
+  <a href="https://johnsiracusa.dev">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/siracusa5">LinkedIn</a>
+</p>
 
-[Portfolio](https://johnsiracusa.dev) · [LinkedIn](https://linkedin.com/in/siracusa5)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-atlas-mobile.svg">
+  <img src="assets/project-atlas.svg" width="100%" alt="Project atlas showing seven connected projects across portable AI, live products, and web systems.">
+</picture>
 
-## Developer infrastructure
+## Project index
 
-### <a href="https://harnesskit.ai"><img src="assets/harness-kit.svg" width="28" alt=""> Harness Kit</a>
+### Portable AI
 
-A portable toolkit for defining and sharing AI coding environments.
+<p>
+  <img src="assets/harness-protocol.svg" width="22" alt=""> <strong><a href="https://harnessprotocol.ai">Harness Protocol</a></strong> · <code>YAML</code> <code>JSON Schema</code> <code>Open standard</code><br>
+  A portable specification for AI coding configurations. <a href="https://github.com/harnessprotocol/harness-protocol">Source</a> · <a href="https://harnessprotocol.ai/docs">Docs</a>
+</p>
 
-TypeScript · macOS · CLI<br>
-[Website](https://harnesskit.ai) · [Source](https://github.com/harnessprotocol/harness-kit) · [Documentation](https://harnesskit.ai/docs)
+<p>
+  <img src="assets/harness-kit.svg" width="22" alt=""> <strong><a href="https://harnesskit.ai">Harness Kit</a></strong> · <code>TypeScript</code> <code>macOS</code> <code>CLI</code><br>
+  A toolkit for defining and sharing AI coding environments. <a href="https://github.com/harnessprotocol/harness-kit">Source</a> · <a href="https://harnesskit.ai/docs">Docs</a>
+</p>
 
-### <a href="https://harnessprotocol.ai"><img src="assets/harness-protocol.svg" width="28" alt=""> Harness Protocol</a>
+<p>
+  <img src="assets/context-cake.svg" width="22" alt=""> <strong><a href="https://contextcake.com">ContextCake</a></strong> · <code>JavaScript</code> <code>macOS</code> <code>Node.js</code><br>
+  Layered context resolution for AI agents from local folders and GitHub repositories. <a href="https://github.com/ContextCake/context-cake">Source</a> · <a href="https://contextcake.com/docs">Docs</a> · <a href="https://contextcake.com/install">Install</a>
+</p>
 
-An open specification for portable AI coding configurations.
+### Live products
 
-YAML · JSON Schema · Open standard<br>
-[Website](https://harnessprotocol.ai) · [Source](https://github.com/harnessprotocol/harness-protocol) · [Documentation](https://harnessprotocol.ai/docs)
+<p>
+  <img src="assets/mindyourblanks.svg" width="22" alt=""> <strong><a href="https://mindyourblanks.com">Mind Your Blanks</a></strong> · <code>Go</code> <code>Next.js</code> <code>Web</code><br>
+  Live and on-demand games with host controls, administration, and production tooling.
+</p>
 
-### <a href="https://contextcake.com"><img src="assets/context-cake.svg" width="28" alt=""> ContextCake</a>
+<p>
+  <img src="assets/2g1p.svg" width="22" alt=""> <strong><a href="https://2girls1parlay.com">2 Girls 1 Parlay</a></strong> · <code>React</code> <code>Vite</code> <code>TypeScript</code><br>
+  Sports coverage, live scores, player-prop research, daily picks, and prediction tracking.
+</p>
 
-A layered knowledge system that resolves context for AI agents from local folders or GitHub repositories.
+### Web systems
 
-JavaScript · macOS · Node.js · Web<br>
-[Website](https://contextcake.com) · [Source](https://github.com/ContextCake/context-cake) · [Documentation](https://contextcake.com/docs) · [Install](https://contextcake.com/install)
+<p>
+  <img src="assets/johnsiracusa-dev.svg" width="22" alt=""> <strong><a href="https://johnsiracusa.dev">johnsiracusa.dev</a></strong> · <code>Canvas</code> <code>Native JavaScript</code><br>
+  A spatial, canvas-based portfolio for exploring projects and capabilities.
+</p>
 
-## Interactive products
-
-### <a href="https://mindyourblanks.com"><img src="assets/mindyourblanks.svg" width="28" alt=""> Mind Your Blanks</a>
-
-Live and on-demand games with host controls, administration, and production operations tooling.
-
-Go · Next.js · Web<br>
-[Live product](https://mindyourblanks.com)
-
-### <a href="https://2girls1parlay.com"><img src="assets/2g1p.svg" width="28" alt=""> 2 Girls 1 Parlay</a>
-
-Sports coverage, live scores, daily picks, player-prop research, and public prediction tracking.
-
-React · Vite · TypeScript · Web<br>
-[Live product](https://2girls1parlay.com)
-
-## Portfolio and client work
-
-### <a href="https://johnsiracusa.dev"><img src="assets/johnsiracusa-dev.svg" width="28" alt=""> johnsiracusa.dev</a>
-
-A canvas-based portfolio for exploring projects and capabilities.
-
-Canvas · Native JavaScript<br>
-[Open portfolio](https://johnsiracusa.dev)
-
-### <a href="https://hometownmediatn.com"><img src="assets/hometown-media.png" width="28" alt=""> Hometown Media</a>
-
-A marketing site for a Tennessee sports, lifestyle, and content media agency.
-
-Production website<br>
-[Visit site](https://hometownmediatn.com)
+<p>
+  <img src="assets/hometown-media.png" width="22" alt=""> <strong><a href="https://hometownmediatn.com">Hometown Media</a></strong> · <code>Production website</code><br>
+  A marketing site for a Tennessee sports, lifestyle, and content media agency.
+</p>
