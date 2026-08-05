@@ -1,6 +1,5 @@
 <p align="center">
-  <strong>Software engineer building portable AI systems and production web products.</strong><br>
-  Coding environments, context infrastructure, interactive software, and the systems behind them.
+  <strong>Software engineer working across tools, products, and platforms.</strong>
 </p>
 
 <p align="center">
@@ -8,107 +7,67 @@
   <a href="https://linkedin.com/in/siracusa5">LinkedIn</a>
 </p>
 
-<p align="center"><sub>Explore the project network</sub></p>
-
-```mermaid
----
-config:
-  flowchart:
-    curve: basis
----
-flowchart LR
-    kit@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/harness-kit.svg", label: "", w: 56, h: 56, constraint: "on" }
-    blanks@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/mindyourblanks.svg", label: "", w: 56, h: 56, constraint: "on" }
-    hometown@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/hometown-media.png", label: "", w: 56, h: 56, constraint: "on" }
-    hub@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/johnsiracusa-dev.svg", label: "", w: 72, h: 72, constraint: "on" }
-    protocol@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/harness-protocol.svg", label: "", w: 56, h: 56, constraint: "on" }
-    cake@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/context-cake.svg", label: "", w: 56, h: 56, constraint: "on" }
-    parlay@{ img: "https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/2g1p.svg", label: "", w: 56, h: 56, constraint: "on" }
-
-    kit --- hub
-    blanks --- hub
-    hometown --- hub
-    hub --- protocol
-    hub --- cake
-    hub --- parlay
-
-    classDef project fill:transparent,stroke:transparent,color:#8c959f,stroke-width:0px
-    classDef center fill:transparent,stroke:transparent,color:#c9d1d9,stroke-width:0px
-    class kit,blanks,hometown,protocol,cake,parlay project
-    class hub center
-    linkStyle default stroke:#6e7681,stroke-width:1px,opacity:0.42
-
-    click kit "https://harnesskit.ai" "Open Harness Kit" _blank
-    click protocol "https://harnessprotocol.ai" "Open Harness Protocol" _blank
-    click cake "https://contextcake.com" "Open ContextCake" _blank
-    click blanks "https://mindyourblanks.com" "Open Mind Your Blanks" _blank
-    click parlay "https://2girls1parlay.com" "Open 2 Girls 1 Parlay" _blank
-    click hub "https://johnsiracusa.dev" "Open johnsiracusa.dev" _blank
-    click hometown "https://hometownmediatn.com" "Open Hometown Media" _blank
-```
-
 ## Project index
 
 <table width="100%">
+  <thead>
+    <tr>
+      <th width="18%" align="left">Project</th>
+      <th width="34%" align="left">Description</th>
+      <th width="14%" align="left">Type</th>
+      <th width="16%" align="left">Surfaces</th>
+      <th width="18%" align="left">Links</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td width="100%" valign="top">
-        <a href="https://harnesskit.ai"><img src="assets/harness-kit.svg" width="30" alt=""> <strong>Harness Kit</strong></a><br>
-        A toolkit for defining and sharing portable AI coding environments.<br>
-        <sub>TypeScript · macOS · CLI &nbsp;—&nbsp;
-        <a href="https://harnesskit.ai">Open ↗</a> ·
-        <a href="https://github.com/harnessprotocol/harness-kit">Source</a> · <a href="https://harnesskit.ai/docs">Docs</a></sub>
-      </td>
+      <td valign="top"><a href="https://harnesskit.ai"><img src="assets/harness-kit.svg" width="32" alt="Harness Kit logo"><br><strong>Harness Kit</strong></a></td>
+      <td valign="top">A toolkit for defining and sharing portable AI coding environments.</td>
+      <td valign="top">Developer tool</td>
+      <td valign="top">macOS app<br>CLI</td>
+      <td valign="top"><a href="https://harnesskit.ai">Website</a><br><a href="https://github.com/harnessprotocol/harness-kit">Source</a><br><a href="https://harnesskit.ai/docs">Docs</a></td>
     </tr>
     <tr>
-      <td width="100%" valign="top">
-        <a href="https://harnessprotocol.ai"><img src="assets/harness-protocol.svg" width="30" alt=""> <strong>Harness Protocol</strong></a><br>
-        An open specification for portable AI coding configurations.<br>
-        <sub>YAML · JSON Schema · Open standard &nbsp;—&nbsp;
-        <a href="https://harnessprotocol.ai">Open ↗</a> ·
-        <a href="https://github.com/harnessprotocol/harness-protocol">Source</a> · <a href="https://harnessprotocol.ai/docs">Docs</a></sub>
-      </td>
+      <td valign="top"><a href="https://harnessprotocol.ai"><img src="assets/harness-protocol.svg" width="32" alt="Harness Protocol logo"><br><strong>Harness Protocol</strong></a></td>
+      <td valign="top">An open specification for portable AI coding configurations.</td>
+      <td valign="top">Open standard</td>
+      <td valign="top">Web<br>Tool-compatible</td>
+      <td valign="top"><a href="https://harnessprotocol.ai">Website</a><br><a href="https://github.com/harnessprotocol/harness-protocol">Source</a><br><a href="https://harnessprotocol.ai/docs">Docs</a></td>
     </tr>
     <tr>
-      <td width="100%" valign="top">
-        <a href="https://contextcake.com"><img src="assets/context-cake.svg" width="30" alt=""> <strong>ContextCake</strong></a><br>
-        Layered context resolution for AI agents from local folders and GitHub repositories.<br>
-        <sub>JavaScript · macOS · Node.js &nbsp;—&nbsp;
-        <a href="https://contextcake.com">Open ↗</a> ·
-        <a href="https://github.com/ContextCake/context-cake">Source</a> · <a href="https://contextcake.com/docs">Docs</a> · <a href="https://contextcake.com/install">Install</a></sub>
-      </td>
+      <td valign="top"><a href="https://contextcake.com"><img src="assets/context-cake.svg" width="32" alt="ContextCake logo"><br><strong>ContextCake</strong></a></td>
+      <td valign="top">Layered context resolution for AI agents from local folders and GitHub repositories.</td>
+      <td valign="top">Context system</td>
+      <td valign="top">macOS app<br>Node.js<br>Web console</td>
+      <td valign="top"><a href="https://contextcake.com">Website</a><br><a href="https://github.com/ContextCake/context-cake">Source</a><br><a href="https://contextcake.com/docs">Docs</a><br><a href="https://contextcake.com/install">Install</a></td>
     </tr>
     <tr>
-      <td width="100%" valign="top">
-        <a href="https://mindyourblanks.com"><img src="assets/mindyourblanks.svg" width="30" alt=""> <strong>Mind Your Blanks</strong></a><br>
-        Live and on-demand games with host controls, administration, and production tooling.<br>
-        <sub>Go · Next.js · Web &nbsp;—&nbsp;
-        <a href="https://mindyourblanks.com">Open ↗</a></sub>
-      </td>
+      <td valign="top"><a href="https://mindyourblanks.com"><img src="assets/mindyourblanks.svg" width="32" alt="Mind Your Blanks logo"><br><strong>Mind Your Blanks</strong></a></td>
+      <td valign="top">Live and on-demand games with host controls, administration, and production tooling.</td>
+      <td valign="top">Interactive game</td>
+      <td valign="top">Web app</td>
+      <td valign="top"><a href="https://mindyourblanks.com">Website</a></td>
     </tr>
     <tr>
-      <td width="100%" valign="top">
-        <a href="https://2girls1parlay.com"><img src="assets/2g1p.svg" width="30" alt=""> <strong>2 Girls 1 Parlay</strong></a><br>
-        Sports coverage, live scores, player-prop research, daily picks, and prediction tracking.<br>
-        <sub>React · Vite · TypeScript &nbsp;—&nbsp;
-        <a href="https://2girls1parlay.com">Open ↗</a></sub>
-      </td>
+      <td valign="top"><a href="https://2girls1parlay.com"><img src="assets/2g1p.svg" width="32" alt="2 Girls 1 Parlay logo"><br><strong>2 Girls 1 Parlay</strong></a></td>
+      <td valign="top">Sports coverage, live scores, player-prop research, daily picks, and prediction tracking.</td>
+      <td valign="top">Sports media</td>
+      <td valign="top">Web app</td>
+      <td valign="top"><a href="https://2girls1parlay.com">Website</a></td>
     </tr>
     <tr>
-      <td width="100%" valign="top">
-        <a href="https://johnsiracusa.dev"><img src="assets/johnsiracusa-dev.svg" width="30" alt=""> <strong>johnsiracusa.dev</strong></a><br>
-        A spatial, canvas-based portfolio for exploring projects and capabilities.<br>
-        <sub>Canvas · Native JavaScript &nbsp;—&nbsp;
-        <a href="https://johnsiracusa.dev">Open ↗</a></sub>
-      </td>
+      <td valign="top"><a href="https://johnsiracusa.dev"><img src="assets/johnsiracusa-dev.svg" width="32" alt="johnsiracusa.dev logo"><br><strong>johnsiracusa.dev</strong></a></td>
+      <td valign="top">A spatial, canvas-based portfolio for exploring projects and capabilities.</td>
+      <td valign="top">Portfolio</td>
+      <td valign="top">Website</td>
+      <td valign="top"><a href="https://johnsiracusa.dev">Website</a></td>
     </tr>
     <tr>
-      <td width="100%" valign="top">
-        <a href="https://hometownmediatn.com"><img src="assets/hometown-media.png" width="30" alt=""> <strong>Hometown Media</strong></a><br>
-        A marketing site for a Tennessee sports, lifestyle, and content media agency.<br>
-        <sub>Production website &nbsp;—&nbsp;
-        <a href="https://hometownmediatn.com">Open ↗</a></sub>
-      </td>
+      <td valign="top"><a href="https://hometownmediatn.com"><img src="assets/hometown-media.png" width="32" alt="Hometown Media logo"><br><strong>Hometown Media</strong></a></td>
+      <td valign="top">A marketing site for a Tennessee sports, lifestyle, and content media agency.</td>
+      <td valign="top">Agency site</td>
+      <td valign="top">Website</td>
+      <td valign="top"><a href="https://hometownmediatn.com">Website</a></td>
     </tr>
   </tbody>
 </table>
