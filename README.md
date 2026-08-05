@@ -17,7 +17,7 @@ TypeScript · macOS · CLI<br>
 
 An open specification for portable AI coding configurations.
 
-MDX · Open standard · Tool-compatible<br>
+YAML · JSON Schema · Open standard<br>
 [Website](https://harnessprotocol.ai) · [Source](https://github.com/harnessprotocol/harness-protocol) · [Documentation](https://harnessprotocol.ai/docs)
 
 ### <a href="https://contextcake.com"><img src="assets/context-cake.svg" width="28" alt=""> ContextCake</a>
@@ -43,7 +43,7 @@ Sports coverage, live scores, daily picks, player-prop research, and public pred
 React · Vite · TypeScript · Web<br>
 [Live product](https://2girls1parlay.com)
 
-## Web work
+## Portfolio and client work
 
 ### <a href="https://johnsiracusa.dev"><img src="assets/johnsiracusa-dev.svg" width="28" alt=""> johnsiracusa.dev</a>
 
