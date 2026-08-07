@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Software engineer building useful things for people and teams.</strong>
+  <strong>Building some fun and slightly useful things for agents, people and teams</strong>
 </p>
 
 <p align="center">
