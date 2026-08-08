@@ -38,6 +38,12 @@
       <td valign="top" nowrap><a href="https://contextcake.com" aria-label="ContextCake website">Website</a> · <a href="https://github.com/ContextCake/context-cake" aria-label="ContextCake source code">Source</a> · <a href="https://contextcake.com/docs" aria-label="ContextCake documentation">Docs</a> · <a href="https://contextcake.com/install" aria-label="Install ContextCake">Install</a></td>
     </tr>
     <tr>
+      <td valign="middle"><a href="https://commentreel.com" aria-label="Open CommentReel"><img src="https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/commentreel.svg" width="24" alt=""></a> <strong>CommentReel</strong></td>
+      <td valign="top">A lightweight web component for publishing selected audience comments as an accessible, configurable reel that keeps each comment’s source link.</td>
+      <td valign="top" nowrap>Web component</td>
+      <td valign="top"><a href="https://commentreel.com" aria-label="CommentReel website">Website</a></td>
+    </tr>
+    <tr>
       <td valign="middle"><a href="https://mindyourblanks.com" aria-label="Open Mind Your Blanks"><img src="https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/mindyourblanks.svg" width="24" alt=""></a> <strong>Mind Your Blanks</strong></td>
       <td valign="top">Hosted games for live and on-demand play.</td>
       <td valign="top" nowrap>Web app</td>
