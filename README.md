@@ -61,5 +61,11 @@
       <td valign="top" nowrap>Website</td>
       <td valign="top"><a href="https://hometownmediatn.com" aria-label="Hometown Media website">Visit site</a></td>
     </tr>
+    <tr>
+      <td valign="middle"><a href="https://nashville-north.teamupathletics.com" aria-label="Open Team Up Athletics Nashville North"><img src="https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/teamup-nashville-north.svg" width="24" alt=""></a> <strong>Team Up Athletics — Nashville North</strong></td>
+      <td valign="top">Localized WordPress site work for a Middle Tennessee team-uniforms and apparel franchise.</td>
+      <td valign="top" nowrap>Website</td>
+      <td valign="top"><a href="https://nashville-north.teamupathletics.com" aria-label="Team Up Athletics Nashville North website">Visit site</a></td>
+    </tr>
   </tbody>
 </table>
