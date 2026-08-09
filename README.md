@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td valign="middle"><a href="https://2girls1parlay.com" aria-label="Open 2 Girls 1 Parlay"><img src="https://raw.githubusercontent.com/siracusa5/siracusa5/main/assets/2g1p.svg" width="24" alt=""></a> <strong>2 Girls 1 Parlay</strong></td>
-      <td valign="top">Sports coverage, live scores, picks, and player-prop research.</td>
+      <td valign="top">Sports coverage, live scores, picks, player-prop research, and a live leg-by-leg board for the night’s slate.</td>
       <td valign="top" nowrap>Web app</td>
       <td valign="top"><a href="https://2girls1parlay.com" aria-label="2 Girls 1 Parlay website">Website</a></td>
     </tr>
